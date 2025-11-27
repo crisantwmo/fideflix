@@ -1,0 +1,17 @@
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/GUI/VentanaCrearUsuario.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/GUI/VentanaInicioSesion.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/GUI/VentanaMenuPrincipal.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/GUI/VentanaServidor.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Audiovisual.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Cliente.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Documental.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Fideflix.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/GestorUsuarios.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/HiloCliente.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Pelicula.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Peticion.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Serie.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Servidor.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/TipoPeticion.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/Usuario.java
+/Users/keny/NetBeansProjects/Fideflix/src/main/java/com/mycompany/fideflix/UsuarioNoEncontradoException.java
